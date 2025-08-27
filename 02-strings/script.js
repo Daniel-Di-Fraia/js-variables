@@ -9,7 +9,7 @@ console.log(myName);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 let number = 10;
-let text = "locomotiva";
+let text = "numero pari?";
 let bool = true;
 console.log(number , text , bool);
 
